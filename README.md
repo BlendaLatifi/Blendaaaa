@@ -1,2 +1,2 @@
-# Blendaaaa
+# Blenda
 Projekti-odk
